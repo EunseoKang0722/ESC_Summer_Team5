@@ -2,8 +2,8 @@
 OBP(On Base Percentage; 출루율) <br>
 AVG(Average; 타율) <br>
 SLG(Slugging Percentage; 장타율) <br>
-ISO(Isolated Power; 순장타율) -> 의미x <br>
-BABIP(Batting Average on Balls In Play; 인플레이 타구의 비율) -> 의미x <br>
+ISO(Isolated Power; 순장타율)
+BABIP(Batting Average on Balls In Play; 인플레이 타구의 비율)
 BB/K (Base on Balls per Strike Out; 볼넷/삼진 비율) <br>
 RC27(Runs Created 27; 한 경기당 득점생산) <br>
 WAR(Wins Above Replacement; 대체선수 대비 승리 기여도)
