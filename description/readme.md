@@ -1,4 +1,4 @@
-# 파생변수 후보
+# 파생변수 후보 (타자력예측)
 OBP(On Base Percentage; 출루율) <br>
 AVG(Average; 타율) <br>
 SLG(Slugging Percentage; 장타율) <br>
