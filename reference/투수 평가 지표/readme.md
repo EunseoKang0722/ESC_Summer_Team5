@@ -63,7 +63,7 @@ https://blog.ncsoft.com/%EC%95%BC%EA%B5%AC-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84
 **8.	FIP (Fielding Independent Pitching; 수비 무관 평균 자책점)**
 
 : DIPS의 개량된 형태, 투수의 미래 성적을 예측하는데 유용하며 평균자책점과 같은 형태로 산출되기 때문에 비교해서 살펴보기가 편함.
-- FIP=  C(보통3.1~3.2, 투수지표 논문에선 3.20)+ (13 * HR + 3 * (BB+HBP) -2 * K)/IP ; C(보통3.1~3.2, 3.00)+ (13 * HR + 3 * (BB+HP) -2 * KK)/ (INN2 /3) 
+- FIP=  C (보통3.1 ~ 3.2, 투수지표 논문에선 3.20)+ (13 * HR + 3 * (BB+HBP) -2 * K)/IP ; C(보통3.1 ~ 3.2, 3.20)+ (13 * HR + 3 * (BB+HP) -2 * KK)/ (INN2 /3) 
 - 여기서 C = ERA_bar – (13 × HR_bar + 3 ×(BB_bar + HBP_bar) – 2 * K_bar ) / IP_bar (각 리그 ERA, HR, ... 의 리그 평균값)
 - >> '한국프로야구에서 FIP 계수의 추정' 확인하면 KBO에 맞는 kFIP를 새롭게 제시 
 - >> kFIP = C+ (14 × HR + 3 × (BB + HBP) − K) / IP ; C+ (14 × HR + 3 × (BB + HP) − KK) / (INN2 / 3)
@@ -89,7 +89,7 @@ https://blog.ncsoft.com/%EC%95%BC%EA%B5%AC-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84
 - H/9 = 9* H / IP ; = 9 * HIT/ (INN2 / 3)
 
 
-**12. OAVG/OOBP/OSLG/OOPS – 피안타율/피출루율/피장타율/피OPS ** 타자 지표와 동일하게 계산
+**12. OAVG/OOBP/OSLG/OOPS – 피안타율/피출루율/피장타율/피OPS**     (타자 지표와 동일하게 계산)
 
 - AVG 피안타율: AVG = H / AB ; = HIT / AB
 - OBP 피출루율: OBP= ( H + BB + HBP ) / ( AB + BB + HBP + SF ) ; = ( HIT + BB + HP ) / ( AB + BB + HP + SF ) 
