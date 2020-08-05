@@ -7,6 +7,7 @@ nc 블로그: 투수/수비지표 계산법
 https://blog.ncsoft.com/%EC%95%BC%EA%B5%AC-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D-10-%EC%95%BC%EA%B5%AC-%EC%A7%80%ED%91%9C-%EA%B3%84%EC%82%B0%EB%B2%95-%ED%88%AC%EC%88%98-%EC%88%98%EB%B9%84-%EC%A7%80%ED%91%9C/
 
 
+
 **1.	ERA (Earned Run Average; 방어율, 평균자책점)** 
 
 : +) ER (Earned Run)=자책점: 투수의 잘못으로 내준 점수
@@ -97,6 +98,6 @@ https://blog.ncsoft.com/%EC%95%BC%EA%B5%AC-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84
 - OPS 피출루율+피장타율 : OPS = OBP + SLG
 
 
-~**13. GO/AO 땅볼/뜬공 **~ 
+~**13. GO/AO 땅볼/뜬공**~ 
 
 :땅볼/ 뜬공 데이터 없음....
