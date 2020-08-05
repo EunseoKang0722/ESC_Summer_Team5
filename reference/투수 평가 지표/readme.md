@@ -31,9 +31,11 @@ https://blog.ncsoft.com/%EC%95%BC%EA%B5%AC-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84
 - BB/9 = 9 * BB/IP ; 9 * BB/(INN2/3)
 - *BB/9는 낮을수록 좋음!*
 
+
 **+) BB/9: (고의사구 제외한 9이닝 당 볼넷 개수)**
 
 - BB/9= 9 * nBB(고의사구 제외한 볼넷 개수)/IP ; = 9 * (BB-IB)/(INN2/3)
+
 
 **4.	K/BB (볼삼비):**
 
@@ -41,12 +43,14 @@ https://blog.ncsoft.com/%EC%95%BC%EA%B5%AC-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84
 - K/BB = K/BB ; KK/BB
 - *높을수록 좋은 지표인듯*
 
+
 **5.	WHIP (Walks plus Hits devided by Innings Pitched; 이닝 당 출루 허용)**
 
 : 이닝 당 볼넷과 안타를 투수가 내주는 것을 의미하는 통계량. 가장 보편적
 - >> 2016~2018 한국프로야구 세이버 메트릭스 지표 분석 에서는 16년과 18년도에는 WHIP이 팀 성적과 높은/통계적으로 상관관계를 보였음을 확인함
 - WHIP= (H+BB)/IP ; = (HIT+BB)/(INN2/3)
 - *WHIP의 값이 적을수록 좋음!* ; 1.1 이하는 특급 투수 취급
+- ?? 득점권WHIP, 2점차이하WHIP, 345번타자 WHIP ??
 
 **6.	BABIP (Batting Average on Ballse In Play; 인플레이 타구 피안타율)**
 
@@ -55,11 +59,13 @@ https://blog.ncsoft.com/%EC%95%BC%EA%B5%AC-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84
 - >>타자와 투수 모두에게 적용이 가능한 지표
 - BABIP= (H - HR)/(AB - K - HR + SF); = (HOLD - HR) / (AB - KK - HR + HS?HF)
 
+
 **7.	DIPS (Defense Independent Pitching Stats)** 
 
 : 투수가 통제할 수 있는 영역인 삼진, 볼넷, 홈런, 데드볼을 갖고 평균 자책점의 형태로 나타낸 것.
 - 계수가 너무 복잡한 공식들이 많아서 근사계산 공식인 DICE도 많이 사용. 
 - DICE = FIP=  3.00+ (13 * HR + 3 * (BB+HBP) -2 * K)/IP ;  3.00+ (13 * HR + 3 * (BB+HP) -2 * KK)/ (INN2 / 3) 
+
 
 **8.	FIP (Fielding Independent Pitching; 수비 무관 평균 자책점)**
 
@@ -70,7 +76,11 @@ https://blog.ncsoft.com/%EC%95%BC%EA%B5%AC-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84
 - >> kFIP = C+ (14 × HR + 3 × (BB + HBP) − K) / IP ; C+ (14 × HR + 3 × (BB + HP) − KK) / (INN2 / 3)
 
 
+
+
 ------------------***위 지표들의계산 방식은 ‘한국프로야구에서의 투수평가지표’ 의 표를 참고. ***-----------------------
+
+
 
 
 **9. RA9 (Run Allowed Per 9 Innings Pitched; 9이닝당 평균실점)**: -
