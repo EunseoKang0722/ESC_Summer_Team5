@@ -1,3 +1,13 @@
+# 팀타자 지표 정리.csv
+
+team_batter_year.csv : 원래 index대로 sort 안한 버전.
+
+
+team_batter_indexsort_year.csv : 원래 index대로 sort 한 버전.
+
+
+
+
 # 팀타자 지표 
 
 - 타율(AVG)= 안타(HIT)/타수(AB) ; AVG= HIT/AB
