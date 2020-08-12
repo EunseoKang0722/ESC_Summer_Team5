@@ -9,6 +9,9 @@ team_batter_indexsort_year.csv : 팀별 누적지표. 원래 index대로 sort �
 team_batter_경기별_year.csv: 팀/ 경기별 지표.
 
 
+team_batter_revised_year: 팀별 누적 지표. XR과 RC만 경기별로 계산.
+
+
 
 # 팀타자 지표 
 
