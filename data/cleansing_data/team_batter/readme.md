@@ -1,4 +1,4 @@
-# 팀타자 지표 정리.csv
+# 팀타자 지표 추가.csv
 
 team_batter_year.csv : 원래 index대로 sort 안한 버전.
 
