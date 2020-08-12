@@ -1,10 +1,12 @@
 # 팀타자 지표 추가.csv
 
-team_batter_year.csv : 원래 index대로 sort 안한 버전.
+team_batter_year.csv : 팀별 누적지표. 원래 index대로 sort 안한 버전.
 
 
-team_batter_indexsort_year.csv : 원래 index대로 sort 한 버전.
+team_batter_indexsort_year.csv : 팀별 누적지표. 원래 index대로 sort 한 버전.
 
+
+team_batter_경기별_year.csv: 팀/ 경기별 지표.
 
 
 
